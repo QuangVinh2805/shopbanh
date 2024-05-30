@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÑÂø8’ï•›ü1
+W	java:S125"<This block of commented-out lines of code should be removed.(ÇšÁ
+8§ï•›ü1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÃËÝ8ªï•›ü1
+i	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¿¤8¬ï•›ü1
